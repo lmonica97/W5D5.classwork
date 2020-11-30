@@ -1,3 +1,4 @@
+#!/usr/bin/env sh
 
 bundle exec rails db:drop
 bundle exec rails db:create
